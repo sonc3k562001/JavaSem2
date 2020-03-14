@@ -13,7 +13,7 @@ public class EmployeePartime extends SalaryPolicy {
     }
 
     public static void main(String[] args) {
-        EmployeePartime s2 = new EmployeePartime((float) 2.5);
-        System.out.println(s2.getSalary());
+        EmployeePartime s2 = new EmployeePartime((float) 2.5f);
+        System.out.println("The Salary : "+s2.getSalary());
     }
 }

@@ -21,7 +21,7 @@ public class EmployeeFullTime extends SalaryPolicy {
     }
 
     public static void main(String[] args) {
-        EmployeeFullTime e1 = new EmployeeFullTime(4);
-        System.out.println(e1.getSalary());
+        EmployeeFullTime e1 = new EmployeeFullTime(4f);
+        System.out.println("The Salary: "+e1.getSalary());
     }
 }
