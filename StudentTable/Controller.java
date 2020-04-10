@@ -76,7 +76,7 @@ public class Controller {
                 pstmt.setString(3, list.get(i).getAddress());
                 pstmt.setString(4, list.get(i).getPhone());
                 pstmt.addBatch();
-                pstmt.executeBatch();
+              
                 pstmt.executeUpdate();
             }
 
