@@ -1,0 +1,50 @@
+greeting{
+        color:red;
+        font-size:30pt;
+        text-align:center;
+        text-decoration:none;
+        font-weight:bold;
+        display:block;
+}
+extension{
+        color:black;
+        font-size:18pt;
+        display:block;
+}
+greeting.extension{
+        color:black;
+        font-size:18pt;
+}
+[class=ans]{
+        color:blue;
+        font-size:16pt;
+}
+answer{
+        color:blue;
+        font-size:17pt;
+        display:block;
+        text-align:center;
+}
+[class=ans].extension{
+        color:blue;
+        font-size:17pt;
+
+}
+question{
+        color:black;
+        font-size:25pt;
+}
+[class= ext]{
+        color:blue;
+        font-size:17;
+}
+xsampdoc{
+        padding-top:50pt;
+        width:200pt;
+        height:200pt;
+        text-align:center;
+        margin:200pt 300pt;
+        border:1pt solid black;
+        overflow:scroll;
+        display:block;
+}
