@@ -1,0 +1,8 @@
+{
+  "menu":{
+    "header": "Adobe Viewers",
+      "action":["Open","OpenNew","ZoomIn","ZoomOut","OriginalView","Quality","Pause","Mute","Find","FindAgain","Copy","CopyAgain","CopySVG","ViewSVG","ViewSource","SaveAs","Help","About"],
+      "id": ["Open","OpenNew","ZoomIn","ZoomOut","OriginalView","Quality","Pause","Mute","Find","FindAgain","Copy","CopyAgain","CopySVG","ViewSVG","ViewSource","SaveAs","Help","About"],
+      "item": ["Open", "Open New" ,"Zoom In", "Zoom Out", "Original View", "Quality","Pause","Mute","Find...","Find Again", "Copy,Copy Again", "Copy SVG","View SVG", "View Source", "Save As","Help","About CVG Viewer ...."]
+  }
+}
