@@ -1,0 +1,4 @@
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\ILoyaltyCardHolder\obj\Debug\netcoreapp3.1\ILoyaltyCardHolder.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\ILoyaltyCardHolder\obj\Debug\netcoreapp3.1\ILoyaltyCardHolder.AssemblyInfoInputs.cache
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\ILoyaltyCardHolder\obj\Debug\netcoreapp3.1\ILoyaltyCardHolder.AssemblyInfo.cs
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\ILoyaltyCardHolder\obj\Debug\netcoreapp3.1\ILoyaltyCardHolder.csprojAssemblyReference.cache

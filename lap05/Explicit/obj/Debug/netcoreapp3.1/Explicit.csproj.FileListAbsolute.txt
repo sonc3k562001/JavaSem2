@@ -1,0 +1,12 @@
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\bin\Debug\netcoreapp3.1\Explicit.exe
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\bin\Debug\netcoreapp3.1\Explicit.deps.json
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\bin\Debug\netcoreapp3.1\Explicit.runtimeconfig.json
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\bin\Debug\netcoreapp3.1\Explicit.runtimeconfig.dev.json
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\bin\Debug\netcoreapp3.1\Explicit.dll
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\bin\Debug\netcoreapp3.1\Explicit.pdb
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\obj\Debug\netcoreapp3.1\Explicit.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\obj\Debug\netcoreapp3.1\Explicit.AssemblyInfoInputs.cache
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\obj\Debug\netcoreapp3.1\Explicit.AssemblyInfo.cs
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\obj\Debug\netcoreapp3.1\Explicit.dll
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\obj\Debug\netcoreapp3.1\Explicit.pdb
+C:\Users\NGUYEN GIANG SON\Desktop\lap1\Explicit\obj\Debug\netcoreapp3.1\Explicit.genruntimeconfig.cache
