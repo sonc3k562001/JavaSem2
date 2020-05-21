@@ -1,0 +1,13 @@
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\bin\Debug\netcoreapp3.1\Namespace.exe
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\bin\Debug\netcoreapp3.1\Namespace.deps.json
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\bin\Debug\netcoreapp3.1\Namespace.runtimeconfig.json
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\bin\Debug\netcoreapp3.1\Namespace.runtimeconfig.dev.json
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\bin\Debug\netcoreapp3.1\Namespace.dll
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\bin\Debug\netcoreapp3.1\Namespace.pdb
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\obj\Debug\netcoreapp3.1\Namespace.csprojAssemblyReference.cache
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\obj\Debug\netcoreapp3.1\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\obj\Debug\netcoreapp3.1\Namespace.AssemblyInfoInputs.cache
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\obj\Debug\netcoreapp3.1\Namespace.AssemblyInfo.cs
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\obj\Debug\netcoreapp3.1\Namespace.dll
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\obj\Debug\netcoreapp3.1\Namespace.pdb
+C:\Users\NGUYEN GIANG SON\source\repos\Session05\Namespace\obj\Debug\netcoreapp3.1\Namespace.genruntimeconfig.cache
